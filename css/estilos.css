@@ -1,0 +1,180 @@
+
+
+#btn-2{
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+
+.btn-3{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+th, td{
+    border:1px solid black;
+    background-color: #e0bcdd;
+    text-align: center;
+    padding: 15px;
+}
+
+#btn-4{
+    text-align: center;
+    margin: auto;
+}
+
+.btn-5{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bolder;
+
+}
+#btn-6{
+    text-align: center;
+    font-size: 20px;
+}
+.btn-7{
+    text-align: center;
+}
+#btn-8{
+    text-align: justify;
+    text-align: center;
+    font-size: 20px;
+    background-color: #e0bcdd;
+}
+#btn-9{
+    text-align: center;
+}
+
+#btn-10{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#btn-11{
+    text-align: center;
+}
+#btn-12{
+    background-color: blueviolet;
+    color: black;
+    text-align: center;
+}
+.menu a:hover{
+    text-shadow: 1px 1px #e0bcdd ;
+}
+.btn-13{
+    background-color: #e0bcdd;
+}
+#btn-14{
+    text-align: center;
+    margin-left: 470px;
+    width: 250px;
+}
+#btn-15{
+    text-align: center;
+    margin-left: 470px;
+    width: 250px;
+}
+#btn-16{
+    text-align: center;
+    margin-left: 540px;
+    background-color: blueviolet;
+    color: black;
+    width: 110px;
+
+}
+#btn-anexo{
+    text-align: center;
+    margin-left: 470px;
+}
+.label-btn{
+    text-align: center;
+    margin-left: 470px;
+}
+#btn-17{
+    margin-left: 470px;
+    margin-top: 30px;
+    position: absolute;
+}
+#btn-18{
+    margin-left: 470px;
+    margin-top: 20px;
+    position: absolute;
+}
+#btn-19{
+    background-color: #e0bcdd;
+}
+#btn-20{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#btn-21{
+    margin-left:470px;
+    margin-top: 20px;
+    width: 250px;
+}
+#btn-22{
+    margin-left:470px;
+    margin-top: 20px;
+    position: absolute;
+}
+#btn-23{
+    margin-left:470px;
+    margin-top: 20px;
+    width: 250px;
+}
+#btn-24{
+    margin-left:470px;
+    margin-top: 20px;
+    position: absolute;
+}
+#btn-25{
+    margin-left:470px;
+    margin-top: 20px;
+    width:250px;
+}
+#btn-26{
+    margin-left:470px;
+    margin-top: 20px;
+    position: absolute;
+}
+#btn-27{
+    margin-left:470px;
+    margin-top: 20px;
+    width:250px;
+}
+#btn-28{
+    margin-left:550px;
+    margin-top: 20px;
+    width: 90px;
+    background-color: blueviolet;
+    color: black;
+}
+#btn-30{
+    margin-left:470px;
+    position: absolute;
+    margin-top: 20px;
+}
+#btn-29{
+    background-color: #e0bcdd;
+}
+#btn-31{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#btn-32{
+    text-align: center;
+    font-size: 20px;
+}
+#btn-33{
+    text-align: center;
+}
+#btn-34{
+    background-color: #e0bcdd;
+}
+#btn-35{
+    text-align: center;
+}
